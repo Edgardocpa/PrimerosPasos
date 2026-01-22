@@ -5,7 +5,7 @@ import { MainProducts } from './components/home/MainProducts';
 export default function Home() {
   return (
     <div>
-      <h1>Hola Mundo</h1>
+      
       <Description />
       <Hero />
       <MainProducts />  
